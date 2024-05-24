@@ -1,5 +1,5 @@
 # Qt_QML_MultimediaPlayer
-Qt/QML C++ araç kütüphanesi ile araba multimedya player kullanıcı arayüzü geliştirme
+Qt/QML C++ araç kütüphanesi ile otomobil multimedya player kullanıcı arayüzü geliştirme
 
 ![Ekran Görüntüsü_1](https://github.com/serhatgnl/Qt_QML_MultimediaPlayer/assets/151748732/dd3df053-4563-4c3c-b580-63cf9256daeb)
 
